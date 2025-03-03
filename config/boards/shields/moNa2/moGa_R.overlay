@@ -1,4 +1,4 @@
-#include "moNa2.dtsi"
+#include "moGa.dtsi"
 
 &default_transform {
     col-offset = <6>;
