@@ -1,8 +1,8 @@
 file_format: "1"
-id: moNa2
-name: moNa2
+id: moGa
+name: moGa
 type: shield
-url: https://github.com/sayu-hub/zmk-config-moNa2
+url: https://github.com/razilyisb/zmk-config-moGa
 requires: [seeeduino_xiao_ble]
 features:
   - keys
